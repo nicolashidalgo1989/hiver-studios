@@ -24,6 +24,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "angular": "^1.8.2"
+    "angular": "^1.8.2",
+    "bootstrap": "^5.0.1"
   }
 }
